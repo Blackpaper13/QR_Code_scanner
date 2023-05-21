@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QR_Code_scanner</string>
+    <string name="lokasi_toko">Lokasi Toko</string>
+    <string name="nomor_seri">nomor_seri</string>
+    <string name="ujicoba_qr_code_scanner">Ujicoba QR CODE Scanner</string>
+</resources>
