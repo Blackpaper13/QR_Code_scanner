@@ -39,14 +39,14 @@
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
-        android:id="@+id/textField_nomorSeri"
-        app:startIconDrawable="@drawable/baseline_devices"
+        android:id="@+id/textField_LokasiCabang"
+        app:startIconDrawable="@drawable/baseline_storefront"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/nomor_seri">
+        android:hint="@string/lokasi_cabang">
 
         <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/nomor_seri"
+            android:id="@+id/twLokasiCabang"
             android:inputType="textCapCharacters"
             android:enabled="false"
             android:layout_width="match_parent"
@@ -73,12 +73,9 @@
             />
     </LinearLayout>
 
-    <TextView
-        android:id="@+id/text_result_example"
-        android:layout_gravity="center"
-        android:textAlignment="center"
-        android:layout_margin="20dp"
-        android:layout_width="300dp"
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 
 

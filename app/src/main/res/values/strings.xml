@@ -3,4 +3,7 @@
     <string name="lokasi_toko">Lokasi Toko</string>
     <string name="nomor_seri">nomor_seri</string>
     <string name="ujicoba_qr_code_scanner">Ujicoba QR CODE Scanner</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lokasi_cabang">Lokasi Cabang</string>
 </resources>
